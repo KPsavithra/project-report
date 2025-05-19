@@ -20,6 +20,7 @@ Line graphs
 Slicers (filters like SMS, Age)
 
 Optimization Recommendations
+
 I analysis-based  on how the hospital can reduce missed appointments. These are written points i include in my report or slides.
 
 Examples:
